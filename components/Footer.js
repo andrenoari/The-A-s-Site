@@ -4,8 +4,8 @@ export default function Footer() {
   return (
     <>
       <footer className={styles.footer}>
-        Made with <img src="/netliheart.svg" alt="heart" className={styles.logo} /> for me
-        Also Powered by Chintu
+        Made with <img src="/netliheart.svg" alt="heart" className={styles.logo} /> for me.
+       <p> Also Powered by Chintu </p>
       </footer>
     </>
   )
