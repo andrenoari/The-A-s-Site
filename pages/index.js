@@ -15,11 +15,6 @@ export default function Home() {
         <p className="description">
          I don't know who am I but sure I'm giving my test for the hereafter 😀 
         </p>
-        <Header title="I'm available on Social Media, You can stalk me 😋" />
-        <p className="social"
-        ✨ Instagram href="https://www.instagram.com/andrenoari/"
-        🕊️ Twitter href="https://www.twitter.com/andrenoari/"
-       </p>
       </main>
     
       <Footer />
