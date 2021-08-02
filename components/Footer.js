@@ -5,7 +5,7 @@ export default function Footer() {
     <>
       <footer className={styles.footer}>
         Made with <img src="/netliheart.svg" alt="heart" className={styles.logo} /> for me.
-       <p> Also Powered by Chintu </p>
+       <p> Powered by Chintu </p>
       </footer>
     </>
   )
