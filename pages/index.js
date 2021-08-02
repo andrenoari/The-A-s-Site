@@ -16,8 +16,7 @@ export default function Home() {
          I don't know who am I but sure I'm giving my test for the hereafter 😀 
        </p>
     <p>I'm available on Social Media, You can stalk me there 😋</p>
-<p>✨ <a title="Instagram" href="https://www.instagram.com/andrenoari/">Instagram</a></p>
-<p>🕊️ <a title="Twitter" href="https://www.twitter.com/andrenoari/">Twitter</a></p>
+<p>✨ <a title="Instagram" href="https://www.instagram.com/andrenoari/">Instagram</a> 🕊️ <a title="Twitter" href="https://www.twitter.com/andrenoari/">Twitter</a></p>
       </main>
     
       <Footer />
