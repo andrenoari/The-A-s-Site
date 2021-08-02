@@ -13,9 +13,16 @@ export default function Home() {
       <main>
         <Header title="Hey, I'm A!" />
         <p className="description">
-         Playing around codes <code> Raw into Packed</code>
+         I don't know who am I but sure I'm giving my test for the hereafter 😀 
         </p>
       </main>
+    <body>
+      <Header title="I'm available on Social Media, You can stalk me 😋" />
+      <p className="social"
+       ✨ Instagram href="https://www.instagram.com/andrenoari/"
+       🕊️ Twitter href="https://www.twitter.com/andrenoari/"
+       </p>
+    </body>
 
       <Footer />
     </div>
