@@ -6,15 +6,18 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>The Ariful!</title>
+        <title>The A!</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
-        <Header title="Hey, I'm A!" />
+        <Header title="Hey, I'm Ariful" />
         <p className="description">
          I don't know who am I but sure I'm giving my test for the hereafter 😀 
-        </p>
+       </p>
+    <p>I'm available on Social Media, You can stalk me there 😋</p>
+<p>✨ <a title="Instagram" href="https://www.instagram.com/andrenoari/">Instagram</a></p>
+<p>🕊️ <a title="Twitter" href="https://www.twitter.com/andrenoari/">Twitter</a></p>
       </main>
     
       <Footer />
