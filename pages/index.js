@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Hey, I'm A!" />
         <p className="description">
-         Playing around codes <code>pages/index.js</code>
+         Playing around codes <code> Raw into Packed</code>
         </p>
       </main>
 
